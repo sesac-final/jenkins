@@ -1,7 +1,7 @@
 # server image는 ubunutu 18.04를 사용
   FROM ubuntu:18.04 
   # Dockerfile 작성자
-  MAINTAINER Wimes <yms04089@kookmin.ac.kr> 
+  MAINTAINER Wimes <mj_forwarder@naver.com> 
 
   # image가 올라갔을 때 수행되는 명령어들
   # -y 옵션을 넣어서 무조건 설치가 가능하도록 한다.
