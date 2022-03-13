@@ -13,5 +13,5 @@ RUN \
 EXPOSE 80 
 
 # 컨테이너가 생성 된 이후에 내부의 아파치 서버는 항상 실행중인 상태로 만들어준다.
-# apachectl을 foreground(즉, deamon)상태로 돌아가도록 한다.
+# apachectl을 foreground(즉, deamon)상태로 돌아가도록 한다.sdfsdfsdf
 CMD ["apachectl", "-D", "FOREGROUND"]
